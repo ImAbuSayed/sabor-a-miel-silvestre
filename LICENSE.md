@@ -1,6 +1,6 @@
 # License
 
-**Sabor a miel silvestre**
+**Sabor a miel silvestre, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
